@@ -22,10 +22,7 @@ export default function RootLayout({
         {/* Open Graph Meta Tags */}
         <meta property="og:title" content="My Music Academy" />
         <meta property="og:description" content="Join the best online music academy to learn and master the art of music." />
-        <meta property="og:image" content="<generated>" />
-<meta property="og:image:type" content="<generated>" />
-<meta property="og:image:width" content="<generated>" />
-<meta property="og:image:height" content="<generated>" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/sherryzia/Simple-Portfolio-With-HTML-CSS-JS/main/image/Music%20Website.png" />
         <meta property="og:url" content="https://sherrymusicacademy-next.vercel.app/" />
         <meta property="og:type" content="website" />
 
@@ -33,10 +30,8 @@ export default function RootLayout({
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="My Music Academy" />
         <meta name="twitter:description" content="Join the best online music academy to learn and master the art of music." />
-        <meta name="twitter:image" content="<generated>" />
-<meta name="twitter:image:type" content="<generated>" />
-<meta name="twitter:image:width" content="<generated>" />
-<meta name="twitter:image:height" content="<generated>" />      </Head>
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/sherryzia/Simple-Portfolio-With-HTML-CSS-JS/main/image/Music%20Website.png" />
+      </Head>
 
       <body className={inter.className}>
         <div className="relative w-full flex items-center justify-center">
